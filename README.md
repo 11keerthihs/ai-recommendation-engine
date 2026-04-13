@@ -153,5 +153,7 @@ This project demonstrates how AI-based recommendation systems can provide person
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+Keerthi HS
 Internship Project Submission
+<img width="1348" height="640" alt="Image" src="https://github.com/user-attachments/assets/8706fb61-f7f1-4915-a4b3-fcf8141d3b61" />
+<img width="584" height="567" alt="Image" src="https://github.com/user-attachments/assets/634aecf2-4306-4d10-b087-f5e11437895c" />
