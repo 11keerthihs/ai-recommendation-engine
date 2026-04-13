@@ -1,0 +1,5 @@
+{
+  "name": "AI Recommendation Engine",
+  "description": "A sophisticated AI-powered recommendation system that uses collaborative and content-based filtering powered by Gemini to suggest products based on user behavior.",
+  "requestFramePermissions": []
+}
